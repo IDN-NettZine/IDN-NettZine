@@ -1,6 +1,11 @@
 ![Rangga a.k.a NettZine](img/banner.png)
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+## Warna Branding
+
+- Warna utama: `#39FF14`
+- Warna latar: `rgb(13, 17, 23)`
+- Warna aksen: `hsl(212, 92%, 45%)`
+
 
 
 ### 👋 Hi, [**aku Rangga**](https://www.instagram.com/ranggasrypratama/)
