@@ -12,6 +12,8 @@ Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Secur
 🎙️ Public Speaking | Di beberapa kesempatan saya sudah menjadi Pembicara.  
 🎨 Kreativitas Visual | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi.
 
+---
+
 ### **⚒️ Skills and Tools**
 
 <!--
