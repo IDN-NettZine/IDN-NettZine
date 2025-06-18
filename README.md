@@ -1,13 +1,5 @@
 ![Rangga a.k.a NettZine](img/banner.png)
 
-## Warna Branding
-
-- Warna utama: `#39FF14`
-- Warna latar: `rgb(13, 17, 23)`
-- Warna aksen: `hsl(212, 92%, 45%)`
-
-
-
 ### 👋 Hi, [**aku Rangga**](https://www.instagram.com/ranggasrypratama/)
 Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Selain itu, saya memiliki skill dibidang Hardware Computer.
 
