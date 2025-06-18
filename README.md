@@ -14,7 +14,7 @@
 
 ### **Hal yang sudah aku Lakukan** :
 
-💻 Web Development, App and Game Development | Membangun Website, App dan Game. 
+💻 Web Development and Game Development | Membangun Website, App dan Game. 
 🔒 Cybersecurity & Jaringan | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.  
 🎙️ Public Speaking | Di beberapa kesempatan saya sudah menjadi Pembicara.  
 🎨 Kreativitas Visual | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi.
