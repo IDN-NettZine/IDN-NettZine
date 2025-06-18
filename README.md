@@ -7,8 +7,7 @@
 
 <h1 align="center">👋 Aku Rangga 👋</h1>
 <p align="center">
-Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di bidang IT seperti Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Saat ini aku mengembangkan kemampuan di bidang <b>Web Development</b> dan <b>App Development</b> sebagai fondasi untuk karier di industri teknologi. Aku juga aktif belajar hal-hal baru, mengikuti perkembangan teknologi terbaru, dan terkadang aku suka berbagi pengetahuan melalui konten digital.<br>
-🚀 Tujuan utamaku adalah menjadi seorang profesional IT yang tidak hanya mahir secara teknis, tetapi juga mampu berkontribusi positif bagi masyarakat melalui teknologi.
+🚀 Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di bidang IT seperti Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Saat ini aku mengembangkan kemampuan di bidang <b>Web Development</b> dan <b>App Development</b> sebagai fondasi untuk karier di industri teknologi. Aku juga aktif belajar hal-hal baru, mengikuti perkembangan teknologi terbaru, dan terkadang aku suka berbagi pengetahuan melalui konten digital.
 </p>
 
 ---
