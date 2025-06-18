@@ -50,7 +50,7 @@ Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Secur
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://images.icon-icons.com/3915/PNG/512/vmware_logo_icon_249251.png" height="40" alt="vscode logo"  />
+  <img src="https://images.icon-icons.com/2699/PNG/512/virtualbox_logo_icon_169253.png" height="40" alt="vtb logo"  />
 </div>
 
 ###
