@@ -3,8 +3,6 @@
 ## **👋 Hi, Aku Rangga!**
 Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Selain itu, saya memiliki skill dibidang Hardware Computer.
 
----
-
 ### **🚀 Hal yang sudah saya Lakukan** :
 
 💻 Web Development and Game Development | Membangun Website dan Game.  
