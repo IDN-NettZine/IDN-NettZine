@@ -14,10 +14,10 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ### 🚀 Hal yang sudah aku Lakukan :
 
-💻 Web Development and Game Development | Membangun Website, App dan Game. <br>
+💻 Web Development and Game Development | Membangun Website, App dan Game. 
 🔒 Cybersecurity & Jaringan | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik. 
-🎙️ Public Speaking | Di beberapa kesempatan saya sudah menjadi Pembicara.  <br>
-🎨 Kreativitas Visual | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi. <br>
+🎙️ Public Speaking | Di beberapa kesempatan saya sudah menjadi Pembicara.  
+🎨 Kreativitas Visual | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi. 
 
 ##
 
