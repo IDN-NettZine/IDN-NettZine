@@ -1,7 +1,7 @@
 ![Rangga a.k.a NettZine](img/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=00C495&width=435&lines=Hi+aku+Rangga;Suka+mempelajari+teknologi+baru!">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=1000&color=00C495&center=true&vCenter=true&width=435&lines=Hi%2C+aku+Rangga!;Fullstack+Dev+%7C+Network+%7C+Creative;Suka+mempelajari+hal+baru!">
 </p>
 
 ### Hi, aku Rangga! 👋 
