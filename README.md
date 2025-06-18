@@ -12,11 +12,13 @@ Aku Rangga a.k.a NettZine, Seorang Tech Enthusiat yang punya minat besar di bida
 
 ---
 
-### **Hal yang sudah aku Lakukan** :
+<h3 align="center">### **Hal yang sudah aku Lakukan** :</h3>
+<p align="center">
 💻 Web Development and Game Development | Membangun Website dan Game.  
 🔒 Cybersecurity & Jaringan | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.  
 🎙️ Public Speaking | Di beberapa kesempatan saya sudah menjadi Pembicara.  
 🎨 Kreativitas Visual | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi.
+</p>
 
 ---
 
