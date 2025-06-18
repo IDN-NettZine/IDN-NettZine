@@ -4,9 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=1000&color=00C495&center=true&vCenter=true&width=435&lines=Hi%2C+aku+Rangga!;Fullstack+Dev+%7C+Network+%7C+Creative;Suka+mempelajari+hal+baru!">
 </p>
 
+<p align="center">
 ### Hi, aku Rangga! 👋 
 Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Selain itu, saya memiliki skill dibidang Hardware Computer.
-
+</p>
 ##
 
 ### **Hal yang sudah aku Lakukan** :
