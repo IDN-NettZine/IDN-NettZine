@@ -1,6 +1,6 @@
 ![Rangga a.k.a NettZine](img/banner.png)
 
-### 👋 Hi, aku Rangga
+## 👋 Hi, aku Rangga
 Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Selain itu, saya memiliki skill dibidang Hardware Computer.
 
 ### **🚀 Hal yang sudah saya Lakukan** :
