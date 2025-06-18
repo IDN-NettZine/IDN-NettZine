@@ -7,14 +7,14 @@
 
 <h1 align="center">👋 Aku Rangga 👋</h1>
 <p align="center">
-Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital..
+Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di bidang IT seperti Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. <br> Saat ini aku mengembangkan kemampuan di bidang <b>Web Development</b> dan <b>App Development</b> sebagai fondasi untuk karier di industri teknologi.<br>
 </p>
 
 ---
 
 ### **Hal yang sudah aku Lakukan** :
 
-💻 Web Development and Game Development | Membangun Website dan Game. 
+💻 Web Development, App and Game Development | Membangun Website, App dan Game. 
 🔒 Cybersecurity & Jaringan | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.  
 🎙️ Public Speaking | Di beberapa kesempatan saya sudah menjadi Pembicara.  
 🎨 Kreativitas Visual | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi.
