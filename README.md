@@ -9,9 +9,9 @@
 <p align="center">
 Aku Rangga a.k.a NettZine, Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital..
 </p>
-
+<br>
 ---
-
+<br>
 ### **Hal yang sudah aku Lakukan** :
 
 💻 Web Development and Game Development | Membangun Website dan Game. 
