@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">👋 Aku Rangga 👋</h1>
+<h3 align="center">👋 Aku Rangga 👋</h3>
 <p align="center">
 🚀 Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di bidang IT seperti Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Saat ini aku mengembangkan kemampuan di bidang <b>App Development</b> dan <b>AI</b> sebagai fondasi untuk karier di industri teknologi🔥.
 </p>
