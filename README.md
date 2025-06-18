@@ -1,5 +1,9 @@
 ![Rangga a.k.a NettZine](img/banner.png)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=00C495&width=435&lines=Hi+aku+Rangga;Suka+mempelajari+teknologi+baru!">
+</p>
+
 ### Hi, aku Rangga! 👋 
 Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Selain itu, saya memiliki skill dibidang Hardware Computer.
 
