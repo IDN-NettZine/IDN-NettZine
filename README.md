@@ -5,7 +5,7 @@ Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Secur
 
 ##
 
-### **Hal yang sudah saya Lakukan** :
+### **Hal yang sudah aku Lakukan** :
 💻 Web Development and Game Development | Membangun Website dan Game.  
 🔒 Cybersecurity & Jaringan | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.  
 🎙️ Public Speaking | Di beberapa kesempatan saya sudah menjadi Pembicara.  
@@ -49,6 +49,8 @@ Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Secur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
