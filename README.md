@@ -58,7 +58,8 @@ Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Secur
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F437025%2Fcapcut&psig=AOvVaw1baKp1Tjkx1jkae4MS8UO5&ust=1750336237372000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj5g-D8-o0DFQAAAAAdAAAAABAE" height="40" alt="cc logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Capcut-logo.svg
+" height="40" alt="cc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
