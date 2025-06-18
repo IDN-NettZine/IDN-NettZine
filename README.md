@@ -58,7 +58,7 @@ Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Secur
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="img/CapCut_logo.png" height="40" alt="cc logo"  />
+  <img src="img/CapCut_logo.png" height="40" alt="cc logo"  style="border-radius: 10px;"/>
   <img width="12" />
   <img src="img/lr.png" height="40" alt="lr logo"  />
   <img width="12" />
