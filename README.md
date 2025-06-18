@@ -5,9 +5,9 @@
 </p>
 
 
-<h1 align="center">🔥 Hi Guys 🔥</h1>
+<h1 align="center">👋 Aku Rangga 👋</h1>
 <p align="center">
-Aku Rangga a.k.a NettZine, Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital..
+Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital..
 </p>
 
 ---
