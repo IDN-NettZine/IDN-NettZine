@@ -1,7 +1,8 @@
 ![Rangga a.k.a NettZine](img/banner.png)
 
 <!--### 👋 Hi, **aku Rangga**-->
-<h3><span style="background-color: red; color:#39FF14; padding:5px 10px; border-radius:5px;">🔥 Hi, aku Rangga</span></h3>
+![Hi, aku Rangga](https://img.shields.io/badge/🔥%20Hi,%20aku%20Rangga-0D1117?style=for-the-badge&logoColor=white&labelColor=39FF14&color=39FF14)
+
 Seorang Tech Enthusiat yang punya minat besar di bidang Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Selain itu, saya memiliki skill dibidang Hardware Computer.
 
 ### **🚀 Hal yang sudah saya Lakukan** :
