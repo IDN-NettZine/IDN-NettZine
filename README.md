@@ -90,6 +90,12 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <a href="https://www.instagram.com/ranggasrypratama/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+##
+
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!-- 
 <div align="left">
   <img alt="HTML5" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
