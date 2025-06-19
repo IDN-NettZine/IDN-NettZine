@@ -94,7 +94,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![NettZine GitHub stats](https://github-readme-stats.vercel.app/api?username=IDN_NettZine)]
 
 <!-- 
 <div align="left">
