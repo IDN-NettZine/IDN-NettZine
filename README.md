@@ -119,9 +119,8 @@ Berasal dari **Indonesia** dan aku adalah **Tech Enthusiat** yang punya minat be
 
 <p align="center">
   🚀 Eh ada yang mampir dan baca sampai habis, hehe. Thanks ya udah mampir!
-  
-  ###
-  
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=800&color=40FDC1&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Kamu+mau+tau+kenapa+aku+suka+ngoding%3F;Soalnya+aku+suka+bikin+%22Commit%22....;apalagi+commit+ke+kamu+%F0%9F%98%98">
 </p>
 
