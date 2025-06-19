@@ -81,8 +81,9 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ###
 
+<h3 align="center">Connect with me</h3>
 
-
+![https://instagram.com/ranggasrypratama](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
 
 <!-- 
 <div align="left">
