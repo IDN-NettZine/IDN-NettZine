@@ -59,7 +59,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://images.icon-icons.com/2699/PNG/512/virtualbox_logo_icon_169253.png" height="40" alt="vtb logo"  />
+  <img src="https://images.icon-icons.com/2699/PNG/512/virtualbox_logo_icon_169253.png" height="38" alt="vtb logo"  />
 </div>
 
 ###
@@ -69,9 +69,9 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="img/CapCut_logo.png" height="40" alt="cc logo"  style="border-radius: 10px;"/>
+  <img src="img/CapCut_logo.png" height="38" alt="cc logo"  border_radius="10px"/>
   <img width="12" />
-  <img src="img/lr.png" height="40" alt="lr logo"  />
+  <img src="img/lr.png" height="42" alt="lr logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
   <img width="12" />
