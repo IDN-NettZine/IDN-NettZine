@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=500&color=40FDC1&width=500&lines=WELCOME+TO+IDN+-+NETTZINE+!;FULLSTACK++%7C++NETWORK++%7C++CREATIVE;AKU+SUKA+MEMPELAJARI+HAL+BARU!">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3500&pause=500&color=40FDC1&width=500&lines=WELCOME+TO+IDN+-+NETTZINE+!;FULLSTACK++%7C++NETWORK++%7C++CREATIVE;AKU+SUKA+MEMPELAJARI+HAL+BARU!">
 </p>
 
 <h3 align="center">👋 Aku Rangga 👋</h3>
