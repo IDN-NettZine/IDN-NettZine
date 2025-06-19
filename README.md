@@ -31,9 +31,9 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
@@ -45,7 +45,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <img width="12" />
   <img src="img/xampp.png" height="40" alt="xampp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -73,9 +73,9 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <img width="12" />
   <img src="img/lr.png" height="40" alt="lr logo"  />
   <img width="12" />
-  <img src="img/ps.png" height="40" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
   <img width="12" />
-  <img src="img/pr.png" height="40" alt="premierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="premierepro logo"  />
 </div>
 
 ##
