@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=1000&color=00C495&center=true&vCenter=true&width=435&lines=Welcome+to+IDN-NettZine!;Fullstack+Dev+%7C+Network+%7C+Creative;Suka+mempelajari+hal+baru!">
 </p>
 
-
 <h3 align="center">👋 Aku Rangga 👋</h3>
 <p align="center">
 Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di bidang IT seperti Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Saat ini aku mengembangkan kemampuan di bidang <b>App Development</b> dan <b>AI</b> sebagai fondasi untuk karier di industri teknologi🔥.
@@ -14,15 +13,15 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ### 🚀 Hal yang sudah aku Lakukan :
 
-
-- **Web Development and Game Development** | Membangun Website dan Game. 
-- **Cybersecurity & Jaringan** | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik. 
-- **Public Speaking** | Di beberapa kesempatan saya sudah menjadi Pembicara.  
-- **Kreativitas Visual** | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi. 
+- **Web Development and Game Development** | Membangun Website dan Game.
+- **Cybersecurity & Jaringan** | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.
+- **Public Speaking** | Di beberapa kesempatan saya sudah menjadi Pembicara.
+- **Kreativitas Visual** | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi.
 
 ##
 
 ### ⚒️ Skills and Tools :
+
 <div align="center" font-size="30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -83,6 +82,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 ##
 
 ### 🌐 Connect with me :
+
 <p align="center">
   <a href="mailto:ranggapratama3004@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/6282284738611"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -92,45 +92,11 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 ##
 
 ### 📊 Github Stats :
+
   <img align="left" alt="Rangga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&theme=tokyonight" />
 
+##
 
-<!-- 
-<div align="left">
-  <img alt="HTML5" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="PHP" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="React" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img alt="python" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="My SQL" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="CPP" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
- 
-</div>
-<br>
-<div align="left">
-   <img alt="Visual Studio Code" width="30px" style="margin-right: 50px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-   <img alt="Git" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img alt="GitHub" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img alt="Terminal" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</div>
--->
+# 🏆 Trophies
 
-<!-- 
-<div align="left">
-<img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="My SQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img alt="CPP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</div>
- -->
+![](https://github-trophies.vercel.app/?username=IDN-NettZine&theme=radical&no-frame=false&no-bg=false&margin-w=4)
