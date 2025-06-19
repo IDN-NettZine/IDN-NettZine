@@ -97,6 +97,6 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ##
 
-# 🏆 Trophies
+### 🏆 Trophies
 
 ![](https://github-trophies.vercel.app/?username=IDN-NettZine&theme=radical&no-frame=false&no-bg=false&margin-w=4)
