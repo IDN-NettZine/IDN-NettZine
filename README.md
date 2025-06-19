@@ -6,15 +6,15 @@
 
 <h3 align="center">👋 Aku Rangga 👋</h3>
 <p align="center">
-Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di bidang IT seperti Programming, Cyber Security, Network, Editing, Design UI/UX dan Konten Kreatif Digital. Saat ini aku mengembangkan kemampuan di bidang <b>App Development</b> dan <b>AI</b> sebagai fondasi untuk karier di industri teknologi🔥.
+Berasal dari **Indonesia** dan aku adalah **Tech Enthusiat** yang punya minat besar di bidang **IT** seperti **Programming**, **Cyber Security**,** Network**, **Editing**, **Design UI/UX** dan **Konten Kreatif Digital**. Saat ini aku mengembangkan kemampuan di bidang **App Development** dan **AI** sebagai fondasi untuk karier di industri teknologi🔥.
 </p>
 
 ##
 
-### 🚀 Hal yang sudah aku Lakukan :
+### 🚀 Things I’ve Done :
 
-- **Web Development and Game Development** | Membangun Website dan Game.
-- **Cybersecurity & Jaringan** | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.
+- **Web Development** and **Game Development** | Membangun Website dan Game.
+- **Cybersecurity** & **Jaringan** | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.
 - **Public Speaking** | Di beberapa kesempatan saya sudah menjadi Pembicara.
 - **Kreativitas Visual** | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi.
 
@@ -112,4 +112,12 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <source media="(prefers-color-scheme: blue)" srcset="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<p align="center">
+  🚀 Eh ada yang mampir dan baca sampai habis, hehe. Thanks ya udah mampir! <br>
+  jangan lupa follow & kasih ⭐ ke repo-repo saya ya 😄
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=500&color=40FDC1&width=500&lines=WELCOME+TO+IDN+-+NETTZINE+!;FULLSTACK++%7C++NETWORK++%7C++CREATIVE;AKU+SUKA+MEMPELAJARI+HAL+BARU!">
+</p>
 
