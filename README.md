@@ -82,7 +82,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ##
 
-### ⚒️ Connect with me :
+### 🌐 Connect with me :
 <br>
 <p align="center">
   <a href="mailto:ranggapratama3004@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
