@@ -93,10 +93,10 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ### 📊 Github Stats :
 
-  <img align="left" alt="Rangga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&theme=tokyonight&border_radius=5)
 
 ##
 
-### 🏆 Trophies
+### Trophies
 
 ![](https://github-trophies.vercel.app/?username=IDN-NettZine&theme=radical&no-frame=false&no-bg=false&margin-w=4)
