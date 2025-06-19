@@ -92,10 +92,9 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ##
 
-
+<h3>statistik</h3>
 <details>
   <summary><h3> 📊 GitHub Stats</h3></summary>
-
   <img align="left" alt="Rangga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
 
 </details>
