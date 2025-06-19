@@ -92,9 +92,14 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ##
 
-### Stats
+### 📊 My Github Stats :
 
-[![NettZine GitHub stats](https://github-readme-stats.vercel.app/api?username=IDN-NettZine)]
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rangga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&hide_border=true" />
+
+</details>
 
 <!-- 
 <div align="left">
