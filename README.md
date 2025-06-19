@@ -47,7 +47,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
