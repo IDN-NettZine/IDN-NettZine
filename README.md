@@ -22,6 +22,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 ##
 
 ### ⚒️ Skills and Tools :
+<br>
 <div align="center" font-size="30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -81,7 +82,8 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ##
 
-<h3 align="center">Connect with me</h3>
+### ⚒️ Connect with me :
+<br>
 <p align="center">
   <a href="mailto:ranggapratama3004@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/6282284738611"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
