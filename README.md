@@ -93,7 +93,10 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 
 ### 📊 Github Stats :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&theme=tokyonight&border_radius=5)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&theme=tokyonight&border_radius=5" alt="github Stats"/>
+</div>
+  <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&theme=tokyonight&border_radius=5)-->
 
 ##
 
