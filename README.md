@@ -117,7 +117,6 @@ Berasal dari **Indonesia** dan aku adalah **Tech Enthusiat** yang punya minat be
 
 <p align="center">
   🚀 Eh ada yang mampir dan baca sampai habis, hehe. Thanks ya udah mampir! <br>
-  jangan lupa follow & kasih ⭐ ke repo-repo saya ya 😄
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=500&color=40FDC1&width=500&lines=WELCOME+TO+IDN+-+NETTZINE+!;FULLSTACK++%7C++NETWORK++%7C++CREATIVE;AKU+SUKA+MEMPELAJARI+HAL+BARU!">
 </p>
 
