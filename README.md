@@ -1,5 +1,5 @@
 ![Rangga a.k.a NettZine](img/alamak.png)
-
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=500&color=40FDC1&width=500&lines=WELCOME+TO+IDN+-+NETTZINE+!;FULLSTACK++%7C++NETWORK++%7C++CREATIVE;AKU+SUKA+MEMPELAJARI+HAL+BARU">
 </p>
