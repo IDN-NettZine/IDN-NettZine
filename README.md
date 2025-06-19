@@ -97,7 +97,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 <details align="center">
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Rangga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rangga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
 
 </details>
 
