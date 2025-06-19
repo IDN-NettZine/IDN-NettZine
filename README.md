@@ -69,7 +69,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="img/CapCut_logo.png" height="38" alt="cc logo"  border_radius="10px"/>
+  <img src="img/CapCut_logo.png" height="38" alt="cc logo"  border_radius=5/>
   <img width="12" />
   <img src="img/lr.png" height="42" alt="lr logo"  />
   <img width="12" />
