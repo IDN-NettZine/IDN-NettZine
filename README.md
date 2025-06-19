@@ -53,7 +53,7 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="40" alt="node logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=TailwindCSS-Dark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
