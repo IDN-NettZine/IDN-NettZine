@@ -1,5 +1,7 @@
 ![Rangga a.k.a NettZine](img/alamak.png)
-<br>
+
+###
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=500&color=40FDC1&width=500&lines=WELCOME+TO+IDN+-+NETTZINE+!;FULLSTACK++%7C++NETWORK++%7C++CREATIVE;AKU+SUKA+MEMPELAJARI+HAL+BARU!">
 </p>
@@ -118,6 +120,6 @@ Berasal dari **Indonesia** dan aku adalah **Tech Enthusiat** yang punya minat be
 <p align="center">
   🚀 Eh ada yang mampir dan baca sampai habis, hehe. Thanks ya udah mampir!
   ###
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=1200&color=40FDC1&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Kamu+mau+tau+kenapa+aku+suka+ngoding%3F;Soalnya+aku+suka+bikin+%22Commit%22....;apalagi+commit+ke+kamu+%F0%9F%98%98">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=800&color=40FDC1&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Kamu+mau+tau+kenapa+aku+suka+ngoding%3F;Soalnya+aku+suka+bikin+%22Commit%22....;apalagi+commit+ke+kamu+%F0%9F%98%98">
 </p>
 
