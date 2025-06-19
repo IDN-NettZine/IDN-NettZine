@@ -23,7 +23,6 @@ Berasal dari Indonesia dan aku adalah Tech Enthusiat yang punya minat besar di b
 ##
 
 ### ⚒️ Skills and Tools :
-<br>
 <div align="center" font-size="30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
