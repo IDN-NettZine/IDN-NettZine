@@ -45,7 +45,7 @@ Berasal dari <b>Indonesia</b> dan aku adalah <b>Tech Enthusiat</b> yang punya mi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="img/xampp.png" height="40" alt="xampp logo"  />
+  <img src="img/xampp.png"  alt="xampp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali linux logo"  />
   <img width="12" />
@@ -61,19 +61,19 @@ Berasal dari <b>Indonesia</b> dan aku adalah <b>Tech Enthusiat</b> yang punya mi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://images.icon-icons.com/2699/PNG/512/virtualbox_logo_icon_169253.png" height="38" alt="vtb logo"  />
+  <img src="https://images.icon-icons.com/2699/PNG/512/virtualbox_logo_icon_169253.png" alt="vtb logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="img/CapCut_logo.png" height="38" alt="cc logo"  border_radius=5/>
+  <img src="img/CapCut_logo.png" alt="cc logo" />
   <img width="12" />
-  <img src="img/lr.png" height="42" alt="lr logo"  />
+  <img src="img/lr.png" alt="lr logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
   <img width="12" />
