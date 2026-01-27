@@ -1,4 +1,5 @@
-**![Rangga a.k.a NettZine](img/alamak.png)
+<!-- **![Rangga a.k.a NettZine](img/alamak.png)** -->
+
 
 ###
 
