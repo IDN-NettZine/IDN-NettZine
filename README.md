@@ -9,16 +9,15 @@
 
 <h3 align="center">👋 Aku Rangga 👋</h3>
 <p align="center">
-Berasal dari <b>Indonesia</b> dan aku adalah <b>Tech Enthusiat</b> yang punya minat besar di bidang <b>IT</b> seperti <b>Programming</b>, <b>Network</b>, <b>Editing</b>, <B>Design UI/UX</B> dan <b>Konten Kreatif Digital</b>. Saat ini aku mengembangkan kemampuan di bidang <b>App Development</b> dan <b>AI</b> sebagai fondasi untuk karier di industri teknologi🔥.
+Berasal dari <b>Indonesia</b> dan aku adalah <b>Tech Enthusiast</b> yang punya minat besar di bidang <b>IT</b> seperti <b>Programming</b>, <b>Network</b>, <b>Editing</b>, <B>Design UI/UX</B> dan <b>Konten Kreatif Digital</b>. Saat ini aku mengembangkan kemampuan di bidang <b>App Development</b> dan <b>AI</b> sebagai fondasi untuk karier di industri teknologi🔥.
 </p>
 
 ##
 
 ### 🚀 Things I’ve Done :
 
-- **Web Development** dan **Game Development** | Membangun Website dan Game.
+- **Web Development && AI** | Membangun Website dan AI.
 - **Cybersecurity** & **Jaringan** | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.
-- **Public Speaking** | Di beberapa kesempatan saya sudah menjadi Pembicara.
 - **Kreativitas Visual** | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi.
 
 ##
