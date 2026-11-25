@@ -83,14 +83,6 @@ Berasal dari <b>Indonesia</b> dan aku adalah <b>Tech Enthusiast</b> yang punya m
 
 ##
 
-### 📊 Github Stats :
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IDN-NettZine&show_icons=true&theme=tokyonight&border_radius=5" alt="github Stats"/>
-</div>
-
-##
-
 ### 🏆 Trophies
 
 <div align="center">
