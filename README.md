@@ -17,7 +17,7 @@ Berasal dari <b>Indonesia</b> dan aku adalah <b>Tech Enthusiast</b> yang punya m
 ### 🚀 Things I’ve Done :
 
 - **Web Development && AI** | Membangun Website dan AI.
-- **Cybersecurity** & **Jaringan** | Mempelajari OSINT, sedikit CTF, Linux dan Mikrotik.
+- **Cybersecurity** & **Jaringan** | Mempelajari OSINT, Linux, Mikrotik dan Cisco.
 - **Kreativitas Visual** | Menekuni fotografi, videografi, dan editing sebagai cara menyalurkan ide dan Hobi.
 
 ##
